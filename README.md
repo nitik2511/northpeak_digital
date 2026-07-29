@@ -2,18 +2,6 @@
 
 A modern, responsive one-page digital agency website built using **HTML5**, **CSS3**, and **JavaScript**. This project was created as part of a Web Development assignment to demonstrate responsive design, semantic HTML, and interactive frontend development.
 
----
-
-## 🌐 Live Demo
-
-**Live Website:** https://your-live-link.com
-
-**GitHub Repository:** https://github.com/yourusername/northpeak-digital
-
-> Replace the links above with your own GitHub repository and deployed website URL.
-
----
-
 ## 📌 Features
 
 - ✅ Fully Responsive Design
